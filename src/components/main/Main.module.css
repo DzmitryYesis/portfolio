@@ -1,0 +1,15 @@
+.mainBlock {
+    height: 100vh;
+    background-color: darkcyan;
+}
+
+.helloMessage {
+    width: 300px;
+    background-color: antiquewhite;
+}
+
+.fotoCard {
+    width: 300px;
+    height: 400px;
+    background-color: antiquewhite;
+}
