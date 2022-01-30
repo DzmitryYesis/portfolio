@@ -1,0 +1,18 @@
+.remotely {
+    display: flex;
+    align-items: center;
+    background-color: darkorange;
+    height: 40vh;
+
+}
+
+.remotelyConteiner {
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    height: 80%;
+}
+
+.title {
+    background-color: blueviolet;
+}
