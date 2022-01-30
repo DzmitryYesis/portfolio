@@ -9,7 +9,7 @@ type ProjectType = {
 const Project = (props: ProjectType) => {
     return (
         <div className={style.project}>
-            <div className={style.icon}></div>
+            <div className={style.icon}>Image</div>
             <h3>{props.title}</h3>
             <span>{props.discription}</span>
         </div>
