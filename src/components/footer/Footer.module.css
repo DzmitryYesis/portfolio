@@ -1,0 +1,27 @@
+.footer {
+    display: flex;
+    align-items: center;
+    background-color: bisque;
+    height: 40vh;
+}
+
+.footerConteiner {
+    height: 80%;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.title {
+    background-color: blueviolet;
+}
+
+.code {
+    height: 50px;
+    width: 300px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.end {
+    background-color: blueviolet;
+}
