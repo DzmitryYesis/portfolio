@@ -10,7 +10,7 @@ const Contacts = () => {
                 <form className={style.form}>
                     <input className={style.input} placeholder={'First Name/Last Name'}/>
                     <input className={style.input} placeholder={'Tel. number'}/>
-                    <textarea className={style.textarea} placeholder={'Type you message'}/>
+                    <textarea className={style.textarea} placeholder={'Type you message'}></textarea>
                 </form>
                 <button>Send</button>
             </div>
